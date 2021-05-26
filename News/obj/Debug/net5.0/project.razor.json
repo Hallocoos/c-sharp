@@ -1,5 +1,5 @@
 {
-  "FilePath": "/home/hallocoos/personal_projects/GradeBookProj/News/News.csproj",
+  "FilePath": "/home/hallocoos/personal-projects/c-sharp/News/News.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,37 +15619,37 @@
   "RootNamespace": "News",
   "Documents": [
     {
-      "FilePath": "/home/hallocoos/personal_projects/GradeBookProj/News/Pages/_ViewStart.cshtml",
+      "FilePath": "/home/hallocoos/personal-projects/c-sharp/News/Pages/_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/hallocoos/personal_projects/GradeBookProj/News/Pages/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/hallocoos/personal_projects/GradeBookProj/News/Pages/_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/hallocoos/personal_projects/GradeBookProj/News/Pages/Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/hallocoos/personal_projects/GradeBookProj/News/Pages/Privacy.cshtml",
+      "FilePath": "/home/hallocoos/personal-projects/c-sharp/News/Pages/Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/hallocoos/personal_projects/GradeBookProj/News/Pages/Error.cshtml",
+      "FilePath": "/home/hallocoos/personal-projects/c-sharp/News/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/hallocoos/personal-projects/c-sharp/News/Pages/_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/hallocoos/personal-projects/c-sharp/News/Pages/Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/hallocoos/personal_projects/GradeBookProj/News/Pages/Shared/_Layout.cshtml",
+      "FilePath": "/home/hallocoos/personal-projects/c-sharp/News/Pages/Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/hallocoos/personal-projects/c-sharp/News/Pages/Shared/_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }

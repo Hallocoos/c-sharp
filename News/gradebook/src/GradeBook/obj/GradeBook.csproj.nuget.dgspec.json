@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hallocoos/personal_projects/c-sharp/News/gradebook/src/GradeBook/GradeBook.csproj": {}
+    "/home/hallocoos/personal-projects/c-sharp/News/gradebook/src/GradeBook/GradeBook.csproj": {}
   },
   "projects": {
-    "/home/hallocoos/personal_projects/c-sharp/News/gradebook/src/GradeBook/GradeBook.csproj": {
+    "/home/hallocoos/personal-projects/c-sharp/News/gradebook/src/GradeBook/GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hallocoos/personal_projects/c-sharp/News/gradebook/src/GradeBook/GradeBook.csproj",
+        "projectUniqueName": "/home/hallocoos/personal-projects/c-sharp/News/gradebook/src/GradeBook/GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "/home/hallocoos/personal_projects/c-sharp/News/gradebook/src/GradeBook/GradeBook.csproj",
+        "projectPath": "/home/hallocoos/personal-projects/c-sharp/News/gradebook/src/GradeBook/GradeBook.csproj",
         "packagesPath": "/home/hallocoos/.nuget/packages/",
-        "outputPath": "/home/hallocoos/personal_projects/c-sharp/News/gradebook/src/GradeBook/obj/",
+        "outputPath": "/home/hallocoos/personal-projects/c-sharp/News/gradebook/src/GradeBook/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hallocoos/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hallocoos/personal_projects/c-sharp/News/News.csproj",
+      "projectUniqueName": "/home/hallocoos/personal-projects/c-sharp/News/News.csproj",
       "projectName": "News",
-      "projectPath": "/home/hallocoos/personal_projects/c-sharp/News/News.csproj",
+      "projectPath": "/home/hallocoos/personal-projects/c-sharp/News/News.csproj",
       "packagesPath": "/home/hallocoos/.nuget/packages/",
-      "outputPath": "/home/hallocoos/personal_projects/c-sharp/News/obj/",
+      "outputPath": "/home/hallocoos/personal-projects/c-sharp/News/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hallocoos/.nuget/NuGet/NuGet.Config"
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
       }
     }
   }

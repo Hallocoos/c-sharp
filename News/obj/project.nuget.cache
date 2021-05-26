@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "brP69ma4qhlgN2YNmcL19oXeOvuyft6MAl4aiG7mKgKTF07olu59uyLCvIQMr/dpWOIVLrBd17iVVznl1WRDGg==",
+  "dgSpecHash": "CKE5vjLg71UC4WUBjPFqRbyMQSWi67tYlQ9Jbcyjt43fvVrbJzYzV2lum0NLdXqvGr46gqaOLd1lj81rQYxw1Q==",
   "success": true,
-  "projectFilePath": "/home/hallocoos/personal_projects/c-sharp/News/News.csproj",
+  "projectFilePath": "/home/hallocoos/personal-projects/c-sharp/News/News.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

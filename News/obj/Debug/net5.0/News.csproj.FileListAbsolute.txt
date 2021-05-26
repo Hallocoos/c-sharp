@@ -38,3 +38,14 @@
 /home/hallocoos/personal_projects/c-sharp/News/obj/Debug/net5.0/News.pdb
 /home/hallocoos/personal_projects/c-sharp/News/obj/Debug/net5.0/News.genruntimeconfig.cache
 /home/hallocoos/personal_projects/c-sharp/News/obj/Debug/net5.0/News.csproj.CopyComplete
+/home/hallocoos/personal-projects/c-sharp/News/obj/Debug/net5.0/News.csproj.AssemblyReference.cache
+/home/hallocoos/personal-projects/c-sharp/News/obj/Debug/net5.0/News.GeneratedMSBuildEditorConfig.editorconfig
+/home/hallocoos/personal-projects/c-sharp/News/obj/Debug/net5.0/News.AssemblyInfoInputs.cache
+/home/hallocoos/personal-projects/c-sharp/News/obj/Debug/net5.0/News.AssemblyInfo.cs
+/home/hallocoos/personal-projects/c-sharp/News/obj/Debug/net5.0/News.csproj.CoreCompileInputs.cache
+/home/hallocoos/personal-projects/c-sharp/News/obj/Debug/net5.0/News.MvcApplicationPartsAssemblyInfo.cache
+/home/hallocoos/personal-projects/c-sharp/News/obj/Debug/net5.0/News.RazorAssemblyInfo.cache
+/home/hallocoos/personal-projects/c-sharp/News/obj/Debug/net5.0/News.RazorAssemblyInfo.cs
+/home/hallocoos/personal-projects/c-sharp/News/obj/Debug/net5.0/News.dll
+/home/hallocoos/personal-projects/c-sharp/News/obj/Debug/net5.0/ref/News.dll
+/home/hallocoos/personal-projects/c-sharp/News/obj/Debug/net5.0/News.pdb

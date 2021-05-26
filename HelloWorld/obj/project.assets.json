@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hallocoos/personal_projects/c-sharp/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/home/hallocoos/personal-projects/c-sharp/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/home/hallocoos/personal_projects/c-sharp/HelloWorld/HelloWorld.csproj",
+      "projectPath": "/home/hallocoos/personal-projects/c-sharp/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/home/hallocoos/.nuget/packages/",
-      "outputPath": "/home/hallocoos/personal_projects/c-sharp/HelloWorld/obj/",
+      "outputPath": "/home/hallocoos/personal-projects/c-sharp/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hallocoos/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
       }
     }
   }

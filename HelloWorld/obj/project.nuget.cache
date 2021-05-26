@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mpktSqP6++wfuJl9t0HGfG0t7Qa3LKMnb/LrWitpYS71B7Hhxi+C5yYyuo2tgEi8/n4a8DYEhSn3MxTsjB3ySA==",
+  "dgSpecHash": "MtV/MphOTJp+Nehly5NrhDukfgiyRf1ujt76BhlAW/wTvtSvAzddJ0f5QUZBLlytoHJBHwyQzByN0S6nES34Gg==",
   "success": true,
-  "projectFilePath": "/home/hallocoos/personal_projects/c-sharp/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "/home/hallocoos/personal-projects/c-sharp/HelloWorld/HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
