@@ -1,0 +1,16 @@
+/home/hallocoos/personal_projects/c-sharp/HelloWorld/bin/Debug/net5.0/HelloWorld
+/home/hallocoos/personal_projects/c-sharp/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/home/hallocoos/personal_projects/c-sharp/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/home/hallocoos/personal_projects/c-sharp/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/home/hallocoos/personal_projects/c-sharp/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/home/hallocoos/personal_projects/c-sharp/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/home/hallocoos/personal_projects/c-sharp/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/home/hallocoos/personal_projects/c-sharp/HelloWorld/obj/Debug/net5.0/HelloWorld.csprojAssemblyReference.cache
+/home/hallocoos/personal_projects/c-sharp/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/hallocoos/personal_projects/c-sharp/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/home/hallocoos/personal_projects/c-sharp/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/home/hallocoos/personal_projects/c-sharp/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/hallocoos/personal_projects/c-sharp/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/home/hallocoos/personal_projects/c-sharp/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/home/hallocoos/personal_projects/c-sharp/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/home/hallocoos/personal_projects/c-sharp/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
