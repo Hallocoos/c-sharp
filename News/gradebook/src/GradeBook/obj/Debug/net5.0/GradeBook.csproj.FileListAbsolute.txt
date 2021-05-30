@@ -5,7 +5,6 @@
 /home/hallocoos/personal_projects/c-sharp/News/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.dll
 /home/hallocoos/personal_projects/c-sharp/News/gradebook/src/GradeBook/bin/Debug/net5.0/ref/GradeBook.dll
 /home/hallocoos/personal_projects/c-sharp/News/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.pdb
-/home/hallocoos/personal_projects/c-sharp/News/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csprojAssemblyReference.cache
 /home/hallocoos/personal_projects/c-sharp/News/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
 /home/hallocoos/personal_projects/c-sharp/News/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfoInputs.cache
 /home/hallocoos/personal_projects/c-sharp/News/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfo.cs
@@ -30,3 +29,4 @@
 /home/hallocoos/personal-projects/c-sharp/News/gradebook/src/GradeBook/obj/Debug/net5.0/ref/GradeBook.dll
 /home/hallocoos/personal-projects/c-sharp/News/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.pdb
 /home/hallocoos/personal-projects/c-sharp/News/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.genruntimeconfig.cache
+/home/hallocoos/personal_projects/c-sharp/News/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csproj.AssemblyReference.cache

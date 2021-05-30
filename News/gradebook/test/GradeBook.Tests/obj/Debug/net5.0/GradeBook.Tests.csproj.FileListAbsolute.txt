@@ -87,7 +87,6 @@
 /home/hallocoos/personal_projects/c-sharp/News/gradebook/test/GradeBook.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 /home/hallocoos/personal_projects/c-sharp/News/gradebook/test/GradeBook.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 /home/hallocoos/personal_projects/c-sharp/News/gradebook/test/GradeBook.Tests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-/home/hallocoos/personal_projects/c-sharp/News/gradebook/test/GradeBook.Tests/obj/Debug/net5.0/GradeBook.Tests.csprojAssemblyReference.cache
 /home/hallocoos/personal_projects/c-sharp/News/gradebook/test/GradeBook.Tests/obj/Debug/net5.0/GradeBook.Tests.GeneratedMSBuildEditorConfig.editorconfig
 /home/hallocoos/personal_projects/c-sharp/News/gradebook/test/GradeBook.Tests/obj/Debug/net5.0/GradeBook.Tests.AssemblyInfoInputs.cache
 /home/hallocoos/personal_projects/c-sharp/News/gradebook/test/GradeBook.Tests/obj/Debug/net5.0/GradeBook.Tests.AssemblyInfo.cs
@@ -103,3 +102,4 @@
 /home/hallocoos/personal_projects/c-sharp/News/gradebook/test/GradeBook.Tests/bin/Debug/net5.0/GradeBook
 /home/hallocoos/personal_projects/c-sharp/News/gradebook/test/GradeBook.Tests/bin/Debug/net5.0/GradeBook.dll
 /home/hallocoos/personal_projects/c-sharp/News/gradebook/test/GradeBook.Tests/bin/Debug/net5.0/GradeBook.pdb
+/home/hallocoos/personal_projects/c-sharp/News/gradebook/test/GradeBook.Tests/obj/Debug/net5.0/GradeBook.Tests.csproj.AssemblyReference.cache

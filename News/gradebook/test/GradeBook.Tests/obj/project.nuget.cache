@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KJXjUiD0Afzq7ltOC4vGMBsClbVKRDks8x0gv6OsBGTMg4texSBs4D9RgfTbb99cZDLgDDCx05ZcKSP8coBDlw==",
+  "dgSpecHash": "RyT0Kazqz6w204rk62CH/FO0VvLLUsmONtxYMjsMvEUbdE7w0sgPyrktu2gAssZv3x+4cOzzKdKCAs+pfoJt6w==",
   "success": true,
   "projectFilePath": "/home/hallocoos/personal_projects/c-sharp/News/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
   "expectedPackageFiles": [
